@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Define URLs for each sidebar link
     const adminPageLinks = {
-        home: 'adminHome.html',
+        home: 'admin_home.html',
         allBooks: 'admin_all_books.html',
         addBooks: 'admin_add_books.html',
         issueReturnRequests: 'admin_return_request.html',
